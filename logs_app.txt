@@ -1,0 +1,6 @@
+2024-Jul-30:23-05-10 : Preparations completed, starting the engine..... run program
+2024-Jul-30:23-05-12 : Extract function has been completed, calling transform function
+2024-Jul-30:23-05-12 : Transform process has succefully completed, next task...
+2024-Jul-30:23-05-12 : The load to csv file has been completed
+2024-Jul-30:23-05-12 : The Data has been loaded to Banks.db
+2024-Jul-30:23-05-12 : Process complete
